@@ -1327,11 +1327,11 @@ Once running you will be directed to your Router-Console in FireFox. From there 
 
 The necessary browser configuration can be found here. For further info go to the project's website.
 Freenet
-A darknet I have not yet tested myself, since I only use TOR and I2P is Freenet. I heard that it is not that populated and that it is mainly used for filesharing. A lot of nasty stuff also seems to be going on on Freenet - but this is only what I heard and read about it. The nasty stuff issue of course is also true for TOR's hidden services and I2P. But since I haven't been on it yet I can't say anything about that.
+A darknet I have not yet tested myself, since I only use TOR and I2P is Freenet. I heard that it is not that populated and that it is mainly used for files haring. A lot of nasty stuff also seems to be going on on Freenet - but this is only what I heard and read about it. The nasty stuff issue of course is also true for TOR's hidden services and I2P. But since I haven't been on it yet I can't say anything about that.
 Maybe another user who knows Freenet better can add her/his review. Anyhow...:
 You get the required software here.
 
-If you want to find out how to use it - consult their helpsite.
+If you want to find out how to use it - consult their help site.
 
 # Secure Peer-to-Peer-Networks GNUnet
 
@@ -1343,7 +1343,7 @@ If you're asking yourself what mesh-networks are take a look at this short video
 guifi.net Netsukuku Community OpenWireless
 Commotion FabFi
 Mesh Networks Research Group
-Byzantium live Linux distro for mesh networking
+Byzantium live Linux distribution for mesh networking
 
 (Thanks to cyberhood!)
 
@@ -1427,8 +1427,8 @@ anonbox anonymouse/anonemail trash-mail
 
 It happens that websites don't allow you to register with certain disposable mail-addresses. In that case you need to test out different ones. I have not yet encountered a site where I could not use one of the many one-time-address out there...
 
-Secure Instant-Messaging/VoIP
-TorChat
+# Secure Instant-Messaging/VoIP
+## TorChat
 
 To install:
 
@@ -1453,7 +1453,7 @@ XMPP generally supports OTR.
 
 Here you find a tutorial on how to use OTR with Pidgin.
 
-Secure and Encrypted VoIP
+## Secure and Encrypted VoIP
 
 As mentioned before - using Skype is not advised. There is a much better solution:
 
@@ -1469,8 +1469,8 @@ Setting up Jitsi is pretty straightforward.
 
 Here is a very nice video-tutorial on how get started with Jitsi.
 
-Social Networking
-Facebook
+# Social Networking
+## Facebook
 
 Although I actually don't think I need to add this here - I suspect other people coming to this forum from google might need to consider this: Don't use Facebook!
 
@@ -1483,19 +1483,13 @@ For all of you who still need more proof regarding the dangers of Facebook and m
 
 Well, and then there's of course Wikipedia's collection of criticism of Facebook. I mean, come on.
 
-Alternatives to Facebook
+### Alternatives to Facebook
 
-Friendica is an alternative to Facebook recommended by the Free Software Foundation
+* Friendica is an alternative to Facebook recommended by the Free Software Foundation
 
-Lorea seems a bit esoteric to me. Honestly, I haven't wrapped my head around it yet. Check out their description: Lorea wrote:
+* Lorea seems a bit esoteric to me. Honestly, I haven't wrapped my head around it yet. Check out their description: Lorea wrote: Lorea is a project to create secure social cybernetic systems, in which a network of humans will become simultaneously represented on a virtual shared world. Its aim is to create a distributed and federated nodal organization of entities with no geophysical territory, interlacing their multiple relationships through binary codes and languages.
 
-Lorea is a project to create secure social cybernetic systems, in which a network of humans will become simultaneously represented on a virtual shared world.
-
-Its aim is to create a distributed and federated nodal organization of entities with no geophysical territory, interlacing their multiple relationships through binary codes and languages.
-
-Diaspora - but there are some doubts - or I'd better say: questions regarding diasporas security.
-
-But it is certainly a better choice than Facebook.
+* Diaspora - but there are some doubts - or I'd better say: questions regarding diasporas security. But it is certainly a better choice than Facebook.
 
 # Passwords
 
@@ -1602,13 +1596,13 @@ Edit: Apparently I can edit the hell out of this post. wink So I will be constan
 I will also work on migrating this guide into the #!-wiki in the future. He probably never did, so
 tinfoil-hat did
 
-### What is Distrobox?
+### What is DistroBox?
 
-**Distrobox** is a tool that allows you to easily create and manage containerized environments based on different Linux distributions within your current Linux system. It leverages existing container technologies (like Docker or Podman) to provide a consistent and isolated environment for running applications and tools from different distributions.
+**DistroBox** is a tool that allows you to easily create and manage containerized environments based on different Linux distributions within your current Linux system. It leverages existing container technologies (like Docker or Podman) to provide a consistent and isolated environment for running applications and tools from different distributions.
 
 ### Key Features:
 
-- **Multi-Distro Support:** Run containers based on various Linux distributions (e.g., Ubuntu, Arch, Fedora) alongside your native environment.
+- **Multi-Distribution Support:** Run containers based on various Linux distributions (e.g., Ubuntu, Arch, Fedora) alongside your native environment.
 - **Seamless Integration:** Use GUI applications and access the same filesystem as your host, providing a near-native experience.
 - **Easy Management:** Simple commands to create, enter, and manage containers.
 
@@ -1620,14 +1614,14 @@ tinfoil-hat did
 
 ### Commands Overview:
 
-1. **Install Distrobox:**
+1. **Install DistroBox:**
    
    ```sh
    sudo apt update
    sudo apt install distrobox
    ```
 
-2. **Create a Distrobox:**
+2. **Create a DistroBox:**
    
    - Ubuntu:
      
@@ -1645,7 +1639,7 @@ tinfoil-hat did
      distrobox-create --name fedora-box --image fedora:latest
      ```
 
-3. **Enter the Distrobox:**
+3. **Enter the DistroBox:**
    
    - Ubuntu:
      
@@ -1681,13 +1675,13 @@ tinfoil-hat did
      sudo dnf install <package>
      ```
 
-5. **Exit Distrobox:**
+5. **Exit DistroBox:**
    
    ```sh
    exit
    ```
 
-6. **Delete Distrobox:**
+6. **Delete DistroBox:**
    
    ```sh
    distrobox-rm --name <box-name>
