@@ -137,19 +137,123 @@ Heuristics for hackers
 
 
 ATTACKS DICTIONARY
+
 	Phishing
-		AI Voice or Video
-		DNS Spoofing
-		Drive-by Attacks
-		XSS Attacks (Cross-Site Scripting)
-    Malware
+		Email Phishing
+		Spear Phishing
+		Whaling
+		Clone Phishing
+		Vishing (Voice Phishing)
+		Smishing (SMS Phishing)
+		Pharming
+		Search Engine Phishing
+		CEO Fraud (Business Email Compromise)
+		Whale-Phishing Attack
+		Angler Phishing
+
+	AI Voice or Video
+	DNS Spoofing
+	Drive-by Attacks
+	XSS Attacks (Cross-Site Scripting)
+    
+	Malware
+		Loaders
+		Viruses
+		Worms
+		Trojans
+		Ransomware
+		Spyware
+		Adware
+		Rootkits
+		Botnets
+		Keyloggers
+
+
     Wireless network attacks
+		Packet Sniffing
+		Rogue Access Points
+		Wi-Fi Phishing and Evil
+		Spoofing Attacks
+		Encryption Cracking
+		Man-in-the-Middle (MitM)
+		Denial of Service (DoS)
+		Wi-Fi Jamming
+		War Driving Attacks
+		War Shipping Attacks
+		Theft and Tampering
+		Default Passwords and SSIDs
+
 	Denial of Service DOS/DDOS
+
 		DoS (Denial of Service)
+			Application Layer DoS Attacks
+			Protocol DoS Attacks
+			Volumetric DoS Attacks
+			Long Password Attacks
+			UDP Flood
+			ICMP Flood (Ping Flood)
+			DNS Amplification
+			NTP Amplification
+			SNMP Amplification
+			HTTP Flood
+			CHARGEN Attack
+			RUDY (R-U-Dead-Yet)
+			Slowloris
+			Smurf Attack
+			Fraggle Attack
+			DNS Flood
+
 		DDoS (Distributed Denial of Service)
+			DNS Amplification
+			SYN Flood
+			UDP Flood
+			HTTP Flood
+			NTP Amplification
+			Ping of Death
+			Smurf Attack
+			Teardrop Attack
+			Botnet-based Attacks
+
 	Brute Force Attacks
+		Simple Brute Force Attack
+		Hybrid Brute Force Attack
+		Dictionary Attack
+		Credential Stuffing
+		Reverse Brute Force Attack
+		Rainbow Table Attack
+
 	Injection Attacks
+		SQL Injection
+		Error-Based SQL Injection
+		Union-Based SQL Injection
+		Blind SQL Injection
+		Boolean-Based Blind SQL Injection
+		Time-Based Blind SQL Injection
+		Out-of-Band SQL Injection
+
 	Zero-Day
+		Zero-Day Vulnerability Exploits
+		Zero-Day Malware
+
+
 	Man-in-the-Middle (MitM) Attacks
+		Man-in-the-Middle (MitM)
+		IP Spoofing
+		DNS Spoofing
+		HTTPS Spoofing
+		SSL Stripping
+		Wi-Fi Eavesdropping
+		Session Hijacking
+
     Social Engineering
+		Social
+		Protesting
+		Baiting
+		Tailgating
+		Quid
+		Phishing
+		Spear
+		Whaling
+		Watering
+		AI
 	Exploit Kits
