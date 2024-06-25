@@ -1,0 +1,155 @@
+Heuristics for hackers
+	DevSecOps
+		1. Establish a Security-First Culture
+		2. Automate Security Processes
+		3. Shift Left
+		4. Implement Continuous Monitoring
+		5. Embrace DevOps Principles
+		6. Iterate and Improve
+		7. Monitor Regulatory Compliance
+	SecOps
+		1. Establish a Security-First Culture
+		2. Implement Continuous Monitoring and Incident Response
+		3. Automate Security Operations
+		4. Conduct Regular Vulnerability Management and Patching
+		5. Integrate Threat Intelligence
+		6. Enhance Security with Advanced Analytics and AI
+		7. Ensure Compliance and Audit Readiness
+		Conclusion
+	OPSEC
+		The Red Team 
+		The Blue Team
+		A Purple Team 
+		Purple Team OPSEC Framework
+	Digital surveillance self-defense
+	Blue team terms in a nutshell
+		Intrusion Prevention System (IPS)
+		Intrusion Detection System (IDS)
+		Host-based Intrusion Detection System (HIDS)
+		Web Application Firewall (WAF)
+		Firewall
+		Security Information and Event Management (SIEM)
+	Basic Considerations
+	BIOS-Passwords
+	Encryption
+	Hardware Encryption
+		Attacks on Full-Disk-Encryption
+            DMA-Attacks (DMA/HDMI-Ports)
+            Cold-Boot-Attacks
+            Freezing of RAM
+            Evil-Maid-Attacks
+		Attacks on encrypted Containers
+		eCryptfs
+		Tomb
+		Advanced Tomb-Sorcery
+	Keyloggers
+		Software Keyloggers
+		Defense against Software Keyloggers
+		Defense against Hardware Keyloggers
+	Secure File-Deletion
+		BleachBit
+		srm [secure rm]
+	Your Internet-Connection
+		firewall
+		ipkungfu
+	Modem & Router
+	Intrusion-Detection, Rootkit-Protection & AntiVirus
+		Snort
+		RKHunter
+		RKHunter-Jedi-Tricks
+		chkrootkit
+		Lynis
+		debsums
+		sha256
+		ClamAV
+	DNS-Servers
+    CCC DNS-Server nameserver 85.214.20.141 #FoeBud DNS-Server`
+	DNSCrypt
+	Firefox/Iceweasel
+		Firefox-Sandbox: Sandfox
+	First go to: Firefox-Preferences
+	TOR [The Onion Router]
+		How to set up a TOR-connection over obfuscated bridges?
+	TOR-Warning
+	I2P
+	Secure Peer-to-Peer-Networks GNUnet
+	VPN (Virtual Private Network)
+	The Web
+	RSS-Feeds
+	Secure Mail-Providers
+	Disposable Mail-Addresses
+	Secure Instant-Messaging/VoIP
+		TorChat
+	Secure and Encrypted VoIP
+    Social Networking
+	    Facebook
+		Alternatives to Facebook
+    Passwords
+	KeePass
+	Further Info/Tools
+		GRC
+	DistroBox?
+		Key Features
+		Practical Use Cases
+		Commands Overview
+	Docker Cheat Sheet
+		Installation
+		Starting Docker
+		Basic Commands
+		Managing Containers
+		Docker Images
+		Docker Compose
+		Docker Machine
+		Network
+		Volume
+		Useful Tips
+	ToolBX
+		Toolbx Cheat Sheet with Podman Installation
+		Installation
+		Getting Started
+		Basic Commands
+		Toolbox Configuration
+		Environment Management
+		File Operations
+		Networking
+		Miscellaneous
+		Tips
+	Digital Forensics
+		Foremost: A File Carving Tool
+		Cloning a Disk
+		Decrypting and Cracking LUKS2 Partitions
+		Recovering Files
+		ALSO: The file command show's the file type based on they header
+	AI Hacking: Techniques and Explanations
+		Model Inversion
+		Adversarial Attacks
+		Data Poisoning
+		Exploit Model Updates
+	Tools
+	Prompts
+		Evil-Bot Prompt
+		The Jailbreak Prompt
+		The STAN Prompt
+		The DUDE Prompt
+		The Mongo Tom Prompt
+		Ignore the Pre-Prompt: Make the AI Forget Its Instructions
+		Avoiding Output Filtering: Asking AI to Talk In Riddles
+
+
+ATTACKS DICTIONARY
+	Phishing
+		AI Voice or Video
+		DNS Spoofing
+		Drive-by Attacks
+		XSS Attacks (Cross-Site Scripting)
+    Malware
+    Wireless network attacks
+	Denial of Service DOS/DDOS
+		DoS (Denial of Service)
+		DDoS (Distributed Denial of Service)
+	Brute Force Attacks
+	Injection Attacks
+	Zero-Day
+	Man-in-the-Middle (MitM) Attacks
+    Social Engineering
+	Exploit Kits

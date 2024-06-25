@@ -1474,8 +1474,9 @@ Setting up Jitsi is pretty straightforward.
 
 Here is a very nice video-tutorial on how get started with Jitsi.
 
-# Social Networking
-## Facebook
+## Social Networking
+
+### Facebook
 
 Although I actually don't think I need to add this here - I suspect other people coming to this forum from google might need to consider this: Don't use Facebook!
 
@@ -1496,7 +1497,7 @@ Well, and then there's of course Wikipedia's collection of criticism of Facebook
 
 * Diaspora - but there are some doubts - or I'd better say: questions regarding diasporas security. But it is certainly a better choice than Facebook.
 
-# Passwords
+## Passwords
 
 Always make sure to use good passwords. To generate secure passwords you can use:
 pwgen
@@ -2322,7 +2323,7 @@ Embeds malicious code into insecure websites to infect visitors' computers autom
 
 Transmits malicious scripts using clickable content, leading to unintended actions on web applications.
 
-# Malware
+## Malware
 
 **Malware Loaders:** Programs designed to install additional malware, often serving as initial access vectors for more advanced threats.
 
@@ -2344,7 +2345,7 @@ Transmits malicious scripts using clickable content, leading to unintended actio
 
 **Keyloggers:** Records keystrokes to capture sensitive information, like passwords or credit card details, for unauthorized use.
 
-# Wireless network attacks
+## Wireless network attacks
 
 **Packet Sniffing:** Involves capturing data packets transmitted over a wireless network. Attackers use packet sniffers to intercept sensitive information, such as login credentials or personal data, contained within unencrypted network traffic.
 
@@ -2486,7 +2487,7 @@ Exploit vulnerabilities in software or hardware that are unknown to the vendor o
 
 **Session Hijacking**: Take control of an ongoing session between two parties to intercept and manipulate communication or steal sensitive information.
 
-# Social Engineering
+## Social Engineering
 
 **Social** Engineering: Manipulate individuals or groups into divulging confidential information or performing actions that compromise security.
 
