@@ -88,7 +88,7 @@ Heuristics for hackers
 	KeePass
 	Further Info/Tools
 		GRC
-	DistroBox?
+	DistroBox
 		Key Features
 		Practical Use Cases
 		Commands Overview
