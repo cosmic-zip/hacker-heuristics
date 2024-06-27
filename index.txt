@@ -88,6 +88,7 @@ Heuristics for hackers
 	KeePass
 	Further Info/Tools
 		GRC
+	Virtualization
 	DistroBox
 		Key Features
 		Practical Use Cases
