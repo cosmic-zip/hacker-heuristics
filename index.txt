@@ -29,6 +29,9 @@ Heuristics for hackers
 		Web Application Firewall (WAF)
 		Firewall
 		Security Information and Event Management (SIEM)
+		Unified Threat Management (UTM)
+		Privileged Access Management (PAM)
+		Cloud Access Security Broker (CASB)
 	Basic Considerations
 	BIOS-Passwords
 	Encryption

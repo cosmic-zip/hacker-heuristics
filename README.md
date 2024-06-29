@@ -370,6 +370,41 @@ Tools for Digital Self-Defense
 3. **Deployment:** Set up dashboards and alerts in Splunk to visualize and monitor security events.
 4. **Usage:** Use the Splunk interface to analyze log data, create reports, and respond to security incidents.
 
+---
+
+### Unified Threat Management (UTM)
+UTM refers to a security solution that integrates multiple security services and features into a single device or service. This approach simplifies the protection of networks against a wide range of threats by consolidating them into a single management console. UTM typically includes:
+
+- **Firewall**: To prevent unauthorized access.
+- **Intrusion Detection and Prevention Systems (IDS/IPS)**: To monitor and block malicious activity.
+- **Antivirus and Antimalware**: To detect and remove malicious software.
+- **VPN**: For secure remote access.
+- **Web Filtering**: To block access to harmful websites.
+- **Spam Filtering**: To prevent phishing and spam emails.
+- **Application Control**: To monitor and control application usage.
+
+---
+
+### Privileged Access Management (PAM)
+PAM refers to the systems and processes used to manage and monitor the access of privileged users to critical resources. These users, often administrators, have elevated access rights that, if misused, could compromise the entire organization. PAM includes:
+
+- **Credential Management**: Securing and rotating passwords for privileged accounts.
+- **Session Monitoring**: Recording and monitoring sessions of privileged users.
+- **Access Control**: Limiting privileged access based on the principle of least privilege.
+- **Audit and Reporting**: Tracking and reporting on privileged access activities to ensure compliance.
+
+---
+
+### Cloud Access Security Broker (CASB)
+CASB is a security policy enforcement point placed between cloud service consumers and cloud service providers. It ensures that security policies are uniformly applied to access and use of cloud services. CASB functions include:
+
+- **Visibility**: Discovering and monitoring cloud service usage.
+- **Compliance**: Ensuring that cloud usage complies with regulatory requirements.
+- **Data Security**: Protecting sensitive data in the cloud through encryption, tokenization, and DLP (Data Loss Prevention).
+- **Threat Protection**: Identifying and mitigating cloud-based threats such as malware and unauthorized access.
+
+These technologies help organizations secure their networks, manage privileged access, and protect cloud environments.
+
 ## Basic Considerations
 
     TODO
