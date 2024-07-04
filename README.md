@@ -405,7 +405,46 @@ CASB is a security policy enforcement point placed between cloud service consume
 
 These technologies help organizations secure their networks, manage privileged access, and protect cloud environments.
 
-## Basic Considerations
+---
+
+
+## Blue team tools (Fast solutions) 
+
+### Hornetsecurity (all-in-one solution for Social Engineering)
+
+[Hornetsecurity](https://www.hornetsecurity.com)
+
+Hornetsecurity is a leading global provider of next-generation cloud-based security, compliance, backup, and security awareness solutions that help companies and organizations of all sizes around the world.
+
+Its flagship product, 365 Total Protection, is the most comprehensive cloud security solution for Microsoft 365 on the market. Driven by innovation and cybersecurity excellence, Hornetsecurity is building a safer digital future and sustainable security cultures with its award-winning portfolio.
+
+**Issues**
+
+> Reporting: We can't even get a CSV file to create proper KPIs.
+
+> Training Assignment: We can't assign training to specific groups; it's all or nothing. Or let the system assign trainings in a way we do not understand.
+
+### Hoxhunt (all-in-one solution for Social Engineering)
+
+Hoxhunt helps organizations turn employees from their greatest risk into their best defense.
+
+By integrating effective anti-social engineering tactics into a holistic behavioral framework for human risk management, we can unite security teams and employees to work together as an unbeatable cyber defense.
+
+We pioneered an adaptive training experience that people love for its gamified, user-centric design. Earning unparalleled engagement, Hoxhunt motivates meaningful behavior change and a scalable culture shift that reduces risk across the spectrum of human cyber behavior.
+
+We are relentless about driving the transformation of Human Risk Management from the outdated, one-size-fits-all SAT model.
+
+
+### KnowBe4 (all-in-one solution for Social Engineering)
+
+Forrester Research has named KnowBe4 a Leader in Forrester Wave for Security Awareness and Training Solutions for several years in a row. KnowBe4 received the highest scores possible in 17 of the 23 evaluation criteria, including learner content and go-to-market approach.
+
+KnowBe4 is the world’s first and largest New-school Security Awareness Training and simulated phishing platform that helps you manage the ongoing problem of social engineering.
+
+We also provide powerful add-on products like PhishER and SecurityCoach to prevent bad actors from getting into your networks and extremely popular compliance training that saves you significant budget dollars.
+
+
+## Basic Considerationss
 
     TODO
 
