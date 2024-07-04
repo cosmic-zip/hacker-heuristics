@@ -32,6 +32,10 @@ Heuristics for hackers
 		Unified Threat Management (UTM)
 		Privileged Access Management (PAM)
 		Cloud Access Security Broker (CASB)
+	Blue team tools (Fast solutions) 
+		Hornetsecurity
+		Hoxhunt
+		KnowBe4
 	Basic Considerations
 	BIOS-Passwords
 	Encryption
