@@ -443,6 +443,18 @@ KnowBe4 is the world’s first and largest New-school Security Awareness Trainin
 
 We also provide powerful add-on products like PhishER and SecurityCoach to prevent bad actors from getting into your networks and extremely popular compliance training that saves you significant budget dollars.
 
+### Suricata
+
+Suricata is a high performance Network IDS, IPS and Network Security Monitoring engine. It is open source and owned by a community-run non-profit foundation, the Open Information Security Foundation (OISF). Suricata is developed by the OISF.
+
+#### Installation:
+
+```bash 
+sudo apt-get install software-properties-common
+sudo add-apt-repository ppa:oisf/suricata-stable
+sudo apt update
+sudo apt install suricata jq
+```
 
 ## Basic Considerationss
 
