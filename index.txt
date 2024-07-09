@@ -36,6 +36,7 @@ Heuristics for hackers
 		Hornetsecurity
 		Hoxhunt
 		KnowBe4
+		Suricata
 	Basic Considerations
 	BIOS-Passwords
 	Encryption
